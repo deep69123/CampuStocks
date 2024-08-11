@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Screenshot 2024-03-21 191342.png</file>
+    <file>Stationary Isometric Mockup Seamless Pattern.jpeg</file>
+    <file>Untitled design (1).png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>

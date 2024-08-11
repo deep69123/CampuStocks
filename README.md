@@ -1,1 +1,1 @@
-# CampuStocks
+# CampuStock

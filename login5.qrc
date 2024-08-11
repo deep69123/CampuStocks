@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="newPrefix">
+    <file>Screenshot 2024-03-21 185142.png</file>
+  </qresource>
+</RCC>

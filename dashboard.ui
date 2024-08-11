@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1200</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>-10</y>
+     <width>1201</width>
+     <height>861</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(Stationary Isometric Mockup Seamless Pattern.jpeg);
+;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>70</y>
+     <width>551</width>
+     <height>681</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+background-image: url(Untitled design.png);
+border-bottom-right-radius:30px;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="buy_button">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>320</y>
+     <width>221</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 20pt &quot;MV Boli&quot;;
+background-color: rgb(131, 233, 255);
+
+border-bottom-right-radius:30px;
+border-top-right-radius:30px;
+border-bottom-left-radius:30px;
+border-top-left-radius:30px;</string>
+   </property>
+   <property name="text">
+    <string>BUY</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="rent_button">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>120</y>
+     <width>221</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 20pt &quot;MV Boli&quot;;
+background-color: rgb(131, 233, 255);
+
+border-bottom-right-radius:30px;
+border-top-right-radius:30px;
+border-bottom-left-radius:30px;
+border-top-left-radius:30px;</string>
+   </property>
+   <property name="text">
+    <string>RENT</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="printout_button">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>530</y>
+     <width>221</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 20pt &quot;MV Boli&quot;;
+background-color: rgb(131, 233, 255);
+
+border-bottom-right-radius:30px;
+border-top-right-radius:30px;
+border-bottom-left-radius:30px;
+border-top-left-radius:30px;</string>
+   </property>
+   <property name="text">
+    <string>PRINTS</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="dash2.qrc"/>
+  <include location="dash1.qrc"/>
+ </resources>
+ <connections/>
+</ui>
